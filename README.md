@@ -1,6 +1,6 @@
 # NØR Protocol
 
-CA: 2XNFAK3hvSwhjhuFEeygeHrM7xMh4wCMDVMKGz7Rpump
+CA: 
 
 NØR (pronounced “nor”) is a Solana-native protocol inspired by the developer experience of NEAR: human-readable account names, predictable program-owned state, and simple composability. NØR is **not an official fork of NEAR Protocol** and does not reuse NEAR code. It is an independent Anchor/Rust implementation designed for Solana.
 
